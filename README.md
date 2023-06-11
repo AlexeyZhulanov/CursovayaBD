@@ -1,1 +1,4 @@
-# CursovayaBD
+# Курсовая работа по базам данных
+# Среда разработки - Android Studio
+# Язык - Java
+# Язык БД - SQLite
